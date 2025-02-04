@@ -4,12 +4,12 @@ Project objective
 The "Sleep Efficiency Dataset Analysis" project focuses on analyzing a dataset related to sleep efficiency, providing insights into factors influencing sleep quality. The primary goal of this analysis is to understand patterns in sleep behavior and identify key variables that affect how efficiently individuals sleep.
 
 Key features
----
+###
 Which season exhibits the highest sleep efficiency?
----
+###
 By categorizing the year into different seasons using the SWITCH Function in DAX, we observed that autumn shows the highest sleep efficiency.
 What factors contribute to this outcome, such as increased physical activity during autumn?
----
+###
 How does caffeine intake influence sleep efficiency across different age groups?
 
 divided individuals into age groups and analysed the impact of various factors on sleep efficiency.
