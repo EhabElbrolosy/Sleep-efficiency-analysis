@@ -6,7 +6,7 @@ The "Sleep Efficiency Dataset Analysis" project focuses on analyzing a dataset r
 Key features
 ---
 Which season exhibits the highest sleep efficiency?
-
+---
 By categorizing the year into different seasons using the SWITCH Function in DAX, we observed that autumn shows the highest sleep efficiency.
 What factors contribute to this outcome, such as increased physical activity during autumn?
 ---
@@ -17,12 +17,10 @@ Specifically, how does caffeine affect females in the 30-40 age range, and how d
 ---
 When is sleep efficiency at its highest?
 ---
-
- at what approximate time does sleep efficiency reach its peak across the dataset?
+At what approximate time does sleep efficiency reach its peak across the dataset?
 ---
 Does smoking have any noticeable impact on REM sleep patterns?
 ---
-
 What effect does smoking have on REM sleep rates across different age groups?
 ---
 How do alcohol, smoking, and caffeine affect overall sleep quality?
